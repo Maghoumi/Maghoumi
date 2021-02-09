@@ -2,7 +2,6 @@
 
 My name is **Mehran Maghoumi** and I'm a senior engineer at [NVIDIA](https://www.nvidia.com/en-us/).
 I also hold a Ph.D. degree in computer sceince from the [University of Central Florida](https://www.cs.ucf.edu/).
-
 Feel free to checkout my full profile on [my homepage](https://www.maghoumi.com/).
 
 ### What's all this? 🤔
