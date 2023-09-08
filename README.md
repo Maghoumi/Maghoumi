@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is **Mehran Maghoumi** and I'm a senior engineer at [NVIDIA](https://www.nvidia.com/en-us/).
+My name is **Mehran Maghoumi** and I'm a senior deep learning engineer at [NVIDIA](https://www.nvidia.com/en-us/).
+My primary area of work is parking space perception using surround camera setups for autonomous driving.
 I also hold a Ph.D. degree in computer sceince from the [University of Central Florida](https://www.cs.ucf.edu/).
 Feel free to checkout my full profile on [my homepage](https://www.maghoumi.com/).
 
